@@ -1,0 +1,226 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(images/shiny_seamless_arabic_geometric_ornament_pattern_on_black_background.jpg);
+}
+
+nav{
+    display:block;
+    background-color:rgb(204, 105, 0);
+    margin-top:-10px;
+    margin-left:-10px;
+    margin-right:-10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 30px;
+    margin-bottom:-40px;
+    font-size:28px;
+    white-space:nowrap;
+}
+
+.nav{
+    padding-left:12%;
+    color:rgb(255, 248, 237);
+}
+
+
+main{
+    margin-top:40px;
+    margin-left:20%;
+    margin-right:17%;
+    width:1500px;
+    background-color:rgba(42, 41, 41, 0.959);
+    height:5000px;
+    padding-top:100px;
+}
+
+table{
+    border: 2px solid rgb(178, 143, 66);
+    border-collapse:collapse;
+    width:1200px;
+    color:white;
+ }
+
+caption{
+    padding-bottom:30px;
+    font-size:26px;
+    font-style:oblique;
+}
+
+th, td{
+    width:8%;
+    border: 1px solid rgb(76, 55, 19);
+    padding: 10px 15px;
+}
+
+th{
+    
+    font-size:28px;
+
+}
+
+td{
+    font-size:24px;
+}
+
+tr:hover{
+    background-color:#333333;
+}
+
+.disclaimer{
+    font-size:24px;
+    padding-left:150px;
+    padding-right:150px;
+    padding-top:100px;
+    padding-bottom:50px;
+    color:white;
+    border-top:1px solid rgb(80, 80, 80);
+    border-bottom:1px solid rgb(80, 80, 80);
+}
+
+.orange{
+    color:orange;
+    font-size:28px;
+}
+
+a{
+    cursor:pointer;
+    color:rgb(255, 219, 152);
+}
+
+footer{
+    display:block;
+    background-color:rgb(204, 105, 0);
+    padding-top:40px;
+    padding-bottom:40px; 
+    margin: -10px -10px -10px -10px;   
+}
+
+::selection{
+    background-color: rgba(118, 118, 118, 0.93);
+}
+
+a.disabled{
+    pointer-events: none;
+    cursor: default;
+    color:#4c4c4c;
+}
+
+h1{
+    color:rgb(0, 255, 72);
+    text-align: center;
+
+}
+
+
+.gameList{
+
+    color:white;
+    padding-left:30px;
+    padding-right:20px;
+    margin-left:30px;
+    margin-right:20px; 
+}
+
+.gameEx{
+    margin-top:100px;
+}
+
+.gameicon{
+   float:left; 
+    margin-right:40px;
+    margin-bottom:30px;
+    
+}
+
+.title{
+    color:rgb(116, 255, 146);
+    font-size:30px;
+}
+li{
+    font-size:24px;
+
+}
+ul{
+    list-style-type: none;
+
+}
+
+b{
+    color:rgb(185, 255, 197);
+
+}
+
+.dis{
+    margin:20px;
+    color:rgb(172, 255, 180);
+    font-size:20px;
+}
+
+.mainRating{
+    color:rgb(0, 255, 13);
+
+}
+
+.light{
+    color:rgba(240, 248, 255, 0.404);
+
+}
+
+
+.AngameEx{
+    margin-top:130px;
+
+    
+}
+
+.Angameicon{
+   float:left; 
+    margin-right:40px;
+    margin-bottom:30px;
+    
+}
+
+.Antitle{
+    color:rgb(116, 148, 255);
+    font-size:30px;
+}
+li{
+    font-size:24px;
+
+}
+ul{
+    list-style-type: none;
+
+}
+
+.b{
+    color:rgb(185, 208, 255);
+
+}
+
+.Andis{
+    margin:20px;
+    color:rgb(172, 194, 255);
+    font-size:20px;
+}
+
+.AnmainRating{
+    color:rgb(0, 94, 255);
+
+}
+
+.Antitle{
+    color:rgb(116, 123, 255);
+    font-size:30px;
+}
+
+.Ana{
+    cursor:pointer;
+    color:rgb(152, 155, 255);
+}
+
+iframe{
+    visibility: 20%;
+
+}
+
